@@ -1,0 +1,5 @@
+﻿  MyString.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab11\lab11\mystring.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab11\lab11\mystring.cpp(36): warning C4018: '<=': signed/unsigned mismatch
+  Lab11.vcxproj -> c:\Users\jshea_000\documents\visual studio 2015\Projects\Lab11\Debug\Lab11.exe
+  Lab11.vcxproj -> c:\Users\jshea_000\documents\visual studio 2015\Projects\Lab11\Debug\Lab11.pdb (Full PDB)

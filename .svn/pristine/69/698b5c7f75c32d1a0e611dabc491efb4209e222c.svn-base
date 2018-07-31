@@ -1,0 +1,6 @@
+﻿  lab02.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab2\lab2\lab02.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jshea_000\documents\visual studio 2015\projects\lab2\lab2\lab02.cpp(5): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab2\lab2\lab02.cpp(5): warning C4100: 'argc': unreferenced formal parameter
+  Lab2.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab2\Debug\Lab2.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  VoxelModel.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework3\homework3\voxelmodel.cpp : fatal error C1041: cannot open program database 'C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework3\Homework3\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  surfaceExtraction.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework3\homework3\surfaceextraction.cpp : fatal error C1041: cannot open program database 'C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework3\Homework3\Debug\vc140.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  main.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework3\homework3\main.cpp(12): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\desktop\intro to systems svn\homework3\homework3\main.cpp(12): warning C4100: 'argc': unreferenced formal parameter
+  Generating Code...

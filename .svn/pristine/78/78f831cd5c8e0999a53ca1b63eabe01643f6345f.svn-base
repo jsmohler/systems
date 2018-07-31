@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab5\lab5\main.cpp(23): warning C4101: 'answer': unreferenced local variable
+c:\users\jshea_000\documents\visual studio 2015\projects\lab5\lab5\main.cpp(36): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab5\lab5\main.cpp(36): warning C4100: 'argc': unreferenced formal parameter
+  Lab5.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab5\Debug\Lab5.exe
+  Lab5.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab5\Debug\Lab5.pdb (Full PDB)

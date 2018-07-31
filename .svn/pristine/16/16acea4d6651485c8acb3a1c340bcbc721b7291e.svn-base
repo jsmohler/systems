@@ -1,0 +1,13 @@
+﻿  VoxelModel.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\voxelmodel.cpp(5): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\voxelmodel.cpp(19): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+  main.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(19): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(22): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(23): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(24): warning C4244: 'argument': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(14): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\desktop\intro to systems svn\homework2\homework2\main.cpp(14): warning C4100: 'argc': unreferenced formal parameter
+  Generating Code...
+  Homework2.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework2\Debug\Homework2.pdb (Full PDB)

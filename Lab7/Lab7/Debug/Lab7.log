@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab7\lab7\main.cpp(20): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab7\lab7\main.cpp(20): warning C4100: 'argc': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab7\lab7\main.cpp(8): warning C4717: 'crash': recursive on all control paths, function will cause runtime stack overflow
+  Lab7.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Lab7\Debug\Lab7.exe
+  Lab7.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Lab7\Debug\Lab7.pdb (Full PDB)

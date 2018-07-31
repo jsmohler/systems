@@ -1,0 +1,10 @@
+﻿  PackedArray.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(8): warning C4838: conversion from 'int' to 'std::size_t' requires a narrowing conversion
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(41): warning C4018: '>': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(47): warning C4244: 'return': conversion from 'uint64_t' to 'int', possible loss of data
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(55): warning C4018: '>': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab6\lab6\packedarray.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Lab06.vcxproj -> c:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab06\Debug\Lab06.exe
+  Lab06.vcxproj -> c:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab06\Debug\Lab06.pdb (Full PDB)

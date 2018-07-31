@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab15\lab15\mystring.h(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab15\lab15\mystring.h(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab15\lab15\mystring.h(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\jshea_000\documents\visual studio 2015\projects\lab15\lab15\main.cpp(28): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab15\lab15\main.cpp(28): warning C4100: 'argc': unreferenced formal parameter
+  Lab15.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Lab15\Debug\Lab15.exe
+  Lab15.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Lab15\Debug\Lab15.pdb (Full PDB)

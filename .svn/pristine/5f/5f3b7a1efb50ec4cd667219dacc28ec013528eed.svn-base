@@ -1,0 +1,61 @@
+﻿  VoxelShape.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(59): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(83): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\voxelshape.cpp(85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Timer.cpp
+  SurfaceExtraction.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(124): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(125): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(126): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(134): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(142): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(146): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\surfaceextraction.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\shape.h(5): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\shape.h(7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\line.h(37): warning C4458: declaration of 'p1' hides class member
+  c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\line.h(13): note: see declaration of 'Line::p1'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\line.h(37): warning C4458: declaration of 'p2' hides class member
+  c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\line.h(13): note: see declaration of 'Line::p2'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(28): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(31): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(35): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(38): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(48): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\main.cpp(48): warning C4100: 'argc': unreferenced formal parameter
+  CSG.cpp
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\shape.h(5): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\shape.h(7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\jshea_000\desktop\intro to systems svn\homework 8\homework 8\csg.cpp(73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  BitVector.cpp
+  Generating Code...
+  Homework 8.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework 8\Debug\Homework 8.exe
+  Homework 8.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Homework 8\Debug\Homework 8.pdb (Full PDB)

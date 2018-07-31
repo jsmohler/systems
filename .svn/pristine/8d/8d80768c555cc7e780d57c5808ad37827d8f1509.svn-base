@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab8\lab8\main.cpp(4): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab8\lab8\main.cpp(4): warning C4100: 'argc': unreferenced formal parameter
+  Lab8.vcxproj -> c:\Users\jshea_000\documents\visual studio 2015\Projects\Lab8\Debug\Lab8.exe
+  Lab8.vcxproj -> c:\Users\jshea_000\documents\visual studio 2015\Projects\Lab8\Debug\Lab8.pdb (Full PDB)

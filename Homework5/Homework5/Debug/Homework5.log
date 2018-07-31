@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\homework5\homework5\main.cpp(19): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\homework5\homework5\main.cpp(19): warning C4100: 'argc': unreferenced formal parameter
+  Homework5.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Homework5\Debug\Homework5.exe
+  Homework5.vcxproj -> C:\Users\jshea_000\documents\visual studio 2015\Projects\Homework5\Debug\Homework5.pdb (Full PDB)

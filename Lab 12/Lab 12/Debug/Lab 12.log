@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\jshea_000\documents\visual studio 2015\projects\lab 12\lab 12\main.cpp(14): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab 12\lab 12\main.cpp(14): warning C4100: 'argc': unreferenced formal parameter
+c:\users\jshea_000\documents\visual studio 2015\projects\lab 12\lab 12\linkedlist.h(67): warning C4715: 'LinkedList<unsigned __int64>::RemoveHead': not all control paths return a value
+c:\users\jshea_000\documents\visual studio 2015\projects\lab 12\lab 12\linkedlist.h(67): warning C4715: 'LinkedList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::RemoveHead': not all control paths return a value
+  Lab 12.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab 12\Debug\Lab 12.exe
+  Lab 12.vcxproj -> C:\Users\jshea_000\Documents\Visual Studio 2015\Projects\Lab 12\Debug\Lab 12.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jshea_000\desktop\intro to systems svn\lab3\lab3\main.cpp(92): warning C4389: '==': signed/unsigned mismatch
+c:\users\jshea_000\desktop\intro to systems svn\lab3\lab3\main.cpp(93): warning C4389: '==': signed/unsigned mismatch
+c:\users\jshea_000\desktop\intro to systems svn\lab3\lab3\main.cpp(94): warning C4389: '==': signed/unsigned mismatch
+c:\users\jshea_000\desktop\intro to systems svn\lab3\lab3\main.cpp(100): warning C4100: 'argv': unreferenced formal parameter
+c:\users\jshea_000\desktop\intro to systems svn\lab3\lab3\main.cpp(100): warning C4100: 'argc': unreferenced formal parameter
+  Lab3.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\jshea_000\Desktop\Intro to Systems SVN\Lab3\Debug\Lab3.pdb (Full PDB)

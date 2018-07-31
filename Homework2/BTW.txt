@@ -1,0 +1,12 @@
+Hello!
+
+I'm not sure what happened, but I just wanted
+to run my program again, so I opened it in visual 
+studios, but then my SVN got really mad and I had 
+to re-commit my assignment. I did make a small change
+because I realized I forgot to do one thing and
+I'm not sure how SVN works, but you can grade the 
+commit I submitted last night if that prevents it
+from being considered turned in late!
+
+Jordan Mohler
